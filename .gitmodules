@@ -58,3 +58,12 @@
 [submodule "bundle/PreserveNoEOL"]
 	path = bundle/PreserveNoEOL
 	url = git@github.com:vim-scripts/PreserveNoEOL.git
+[submodule "bundle/vim-airline"]
+	path = bundle/vim-airline
+	url = git@github.com:vim-airline/vim-airline.git
+[submodule "bundle/vim-bufferline"]
+	path = bundle/vim-bufferline
+	url = git@github.com:bling/vim-bufferline.git
+[submodule "bundle/vim-tomorrow-theme"]
+	path = bundle/vim-tomorrow-theme
+	url = git@github.com:chriskempson/vim-tomorrow-theme.git
